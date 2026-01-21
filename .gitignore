@@ -20,3 +20,5 @@ env/
 
 # Temp files
 *.log
+
+.idea/
