@@ -1,0 +1,22 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+
+# Streamlit cache/settings
+.streamlit/
+
+# Temp files
+*.log
